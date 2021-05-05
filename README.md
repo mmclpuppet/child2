@@ -1,3 +1,3 @@
 # child2 
 
-merge test
+merge test 2
