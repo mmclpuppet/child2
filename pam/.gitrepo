@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:mmclpuppet/parent.git
 	branch = preview
-	commit = 5c32a16596ce91b954f8dbee1957ec709bfffbe8
-	parent = fc820254ee11695d6a9aea661f8e07b723d26bfd
+	commit = c696a675c16b16354ef79db80855484ba1cae735
+	parent = eebfe0f66beea33c0074024b5847489639653df6
 	method = merge
 	cmdver = 0.4.1
